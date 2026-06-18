@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/wpmcp/docs/:path*",
+      "destination": "https://wpmcp-docs.vercel.app/wpmcp/docs/:path*"
+    }
+  ]
+}
